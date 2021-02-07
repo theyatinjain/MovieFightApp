@@ -33,7 +33,7 @@ const createAutoComplete = ({ root, renderOption, onOptionSelect, inputValue, fe
         }
     }
 
-    input.addEventListener('input', debounce(onInput, 1000));
+    input.addEventListener('input', debounce(onInput, 700));
     document.addEventListener('click', event => {
         if (!root.contains(event.target)) dropdown.classList.remove('is-active');
     });
