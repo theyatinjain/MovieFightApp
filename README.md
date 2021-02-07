@@ -2,4 +2,4 @@
  Simple JS movie comparison app.
 
 # Link
-    [Movie Fight App](theyatinjain.github.io/MovieFightApp)
+    [Movie Fight App](https://theyatinjain.github.io/MovieFightApp)
